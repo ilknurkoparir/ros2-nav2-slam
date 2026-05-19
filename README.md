@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="gif/demo.gif" width="500"/>
+</p>
 # ROS2 Autonomous Navigation and SLAM
 Bu projede, Nav2 paketi kullanılarak robotun gezinme, engellerden kaçınma ve yol planlama (Path planning) işlemleri gerçekleştirilmiştir. Robotun konumlandırma işlemleri yapılmış ve slam_toolbox kullanılarak ortamın haritalanması sağlanmıştır. Son aşamada oluşturulan harita kaydedilmiş ve ilerleyen çalışmalarda yeniden kullanılabilir hâle getirilmiştir.
 
