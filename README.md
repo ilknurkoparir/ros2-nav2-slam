@@ -89,7 +89,8 @@ $ ros2 run nav2_map_server map_saver_cli -f my_map
 Harita yüklendikten ve robotun başlangıç konumu tanımlandıktan sonra, robota hedef bir konum verilebilmektedir. Bunun için yeni bir terminal açarak aşağıdaki komut çalıştırılmıştır.
 
 ```bash
-$ ros2 launch rrobot_description_1 navigation.launch.py use_sim_time:=true
+$ ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true
+
 
 ```
 
